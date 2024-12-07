@@ -1,4 +1,4 @@
-# Automated Data Cleaning for Vaccination Records**
+# Automated Data Cleaning for Vaccination Records
 
 ## Overview
 
